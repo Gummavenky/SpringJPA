@@ -51,6 +51,9 @@ public class Application {
 		cus.add(new Customer(802,"asok","lbnagar"));
 		cr.saveAll(cus);
 		System.out.println("multiple records inserted");
+                System.out.println("welcome oracel");
+
+
 		
 	
 		
