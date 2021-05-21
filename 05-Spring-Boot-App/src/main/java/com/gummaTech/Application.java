@@ -52,6 +52,9 @@ public class Application {
 		cr.saveAll(cus);
 		System.out.println("multiple records inserted");
                 System.out.println("welcome oracel");
+System.out.println("*********==========******");
+
+
 
 
 		
